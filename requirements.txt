@@ -18,7 +18,7 @@ prometheus-client==0.8.0
 PyYAML==5.3.1
 requests==2.24.0
 six==1.15.0
-urllib3==1.25.9
+urllib3==1.26.5
 watchdog==0.8.3
 watchdog-gevent==0.1.0
 Werkzeug==1.0.1
